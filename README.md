@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Greetings from Glitch 👋
 
 <!--
 **mraj-556/mraj-556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
