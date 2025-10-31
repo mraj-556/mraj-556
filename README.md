@@ -13,12 +13,12 @@ Welcome to my GitHub! I'm a backend developer with over 2 years of hands-on expe
 - JavaScript (basic), HTML5, CSS3
 
 **Cloud & DevOps**
-- AWS (Lambda, EC2, RDS, Amplify, Cognito, IAM, Route53)
+- AWS (Lambda, EC2, RDS, Amplify, Cognito, IAM, Route53, ECS)
 - Docker, Docker Compose
 - Jenkins
 
 **Databases**
-- PostgreSQL, MySQL, SQLite3, MongoDB
+- PostgreSQL, MySQL, SQLite3, MongoDB/AWS DocDB
 
 **AI/ML & Automation**
 - NumPy, Pandas, Scikit-learn, Seaborn
