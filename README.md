@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a backend developer with over 2 years of hands-on expe
 
 **AI/ML & Automation**
 - NumPy, Pandas, Scikit-learn, Seaborn
-- OpenCV, Selenium
+- OpenCV, Selenium, Agentic AI(adk, langchain)
 
 **Other Tools**
 - Git, GitHub, REST APIs, Jira
@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a backend developer with over 2 years of hands-on expe
 
 ## 💼 Professional Experience
 
-**Team Lead – Backend Developer**  
+**Backend Developer**  
 *RSB Healthcare Consultancy* | *Sep 2023 – Present* | *Cuttack, India*
 
 - Led backend for **Insscrub** (B2B RCM automation) using FastAPI & Docker
